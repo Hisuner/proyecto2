@@ -1,0 +1,129 @@
+body{
+    background: black;
+}
+#ar{
+    background: #5D3A3A;
+    height: 800px;
+    width: 80%;
+    border: solid black 3px;
+    top: 40%;
+    left: 40%;
+}
+#as{
+    background: #b5e0ba;
+    border: solid white 3px;
+    position: relative;
+    top: 1%;
+    left: 1%;
+    width: 30%;
+    height: 45%;
+}
+#ka{
+    background: #62374e;
+    height: 800px;
+    width: 80%;
+    border: solid black 3px;
+    top: 40%;
+    left: 40%;
+}
+#ke{
+    background: #fdc57b;
+    border: solid white 3px;
+    position: relative;
+    top: 10%;
+    left: 10%;
+    width: 10%;
+    height: 15%;
+}
+#ki{
+    background: #fdc57b;
+    border: solid white 3px;
+    position: relative;
+    top: 60%;
+    left: 10%;
+    width: 10%;
+    height: 15%;
+}
+#ko{
+    background: #fdc57b;
+    border: solid white 3px;
+    position: relative;
+    
+    bottom: 21.5%;
+    left:  80%;
+    width: 10%;
+    height: 15%;
+}
+#ku{
+    background: #fdc57b;
+    border: solid white 3px;
+    position: relative;
+    top: 30%;
+    left: 80%;
+    width: 10%;
+    height: 15%;
+}
+
+.riot{
+    background:#0B2429;
+
+}
+.r1{
+    background-color:#998235;
+    height:250px;
+    width: 250px;
+    left: 150px;
+    top:280px;  
+    border-radius: 100% 00% 100% 100%; 
+    position: absolute;
+
+    }
+    .r2{
+    background-color:#F3AC3C;
+    height:250px;
+    width: 250px;
+    left: 10px;
+    top:400px;  
+    border-radius: 100% 00% 100% 100%; 
+    position: absolute;
+    }
+    .r3{
+    background-color:#F3AC3C;
+    height:250px;
+    width: 250px;
+    left: 300px;
+    top:150px; 
+    border-radius: 100% 100% 100% 100%; 
+    position: absolute;
+    z-index:-2 ;
+    }
+
+
+    
+    .e1{
+    background-color:#f7ec7d;
+    height:150px;
+    width: 150px;
+    border-radius: 0% 0% 100% 100%;  
+    left: 100px;
+    top:250px;  
+    position: absolute;
+    }
+    .e2{
+    background-color:#f7ec7d;
+    height:150px;
+    width: 150px;
+    border-radius: 100% 100% 0% 0%;  
+    left: 250px;
+    top:100px;  
+    position: absolute;
+    }
+    .e3{
+    background-color:#f7ec7d;
+    height:150px;
+    width: 150px;
+    border-radius: 0% 0% 100% 100%;  
+    left: 400px;
+    top:250px;  
+    position: absolute;
+    }
